@@ -4,7 +4,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=00FFFF&center=true&vCenter=true&width=435&lines=CTF+Player;Bug+Bounty+Hunter;Linux+Exploit+Researcher;Cyber+Ops+%2F+Red+Team" alt="Typing SVG" />
 </p>
-
 <p align="center">
     <img src="assets/cyber-security.gif" alt="hacking" width="400"/>
 </p>

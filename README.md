@@ -1,6 +1,6 @@
 <table width="100%">
 <tr>
-<td align="center" style="padding: 60px; background: url('https://wallpapercave.com/wp/wp12578536.jpg') center center / cover no-repeat;">
+<td align="center" background="https://wallpapercave.com/wp/wp12578536.jpg" style="padding: 60px;">
   <h2 style="color: white; text-shadow: 0 0 15px #00ffff; font-size: 2.8em;">⚡ unknown1337 ⚡</h2>
   <p style="color: white; font-size: 1.2em; text-shadow: 0 0 10px #0ff;">CTF • Bug Bounty • Red Team</p>
 </td>
@@ -15,7 +15,7 @@
   Ethical Hacker • Security Researcher • CTF Player
 </p>
 
----
+<hr/>
 
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3h6a3k0YzFpcXQ2ZWxmMDdiYjk0NzFnN28wOG96NjV5M285azUwNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6OrCT1jVbonHG/giphy.gif" width="500" style="border-radius: 10px;" />

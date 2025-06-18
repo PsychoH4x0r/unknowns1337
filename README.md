@@ -1,6 +1,4 @@
 <h1 align="center">⚡ unknown1337 ⚡</h1>
-![TryHackMe](https://img.shields.io/badge/TryHackMe-%2312100E.svg?style=for-the-badge&logo=tryhackme&logoColor=red)
-![HackTheBox](https://img.shields.io/badge/HackTheBox-%23000000.svg?style=for-the-badge&logo=hackthebox&logoColor=green)
 
 <p align="center">
 <p align="center">
@@ -21,6 +19,8 @@
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3h6a3k0YzFpcXQ2ZWxmMDdiYjk0NzFnN28wOG96NjV5M285azUwNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6OrCT1jVbonHG/giphy.gif" width="500" style="border-radius: 10px;" />
 </p>
+![TryHackMe](https://img.shields.io/badge/TryHackMe-%2312100E.svg?style=for-the-badge&logo=tryhackme&logoColor=red)
+![HackTheBox](https://img.shields.io/badge/HackTheBox-%23000000.svg?style=for-the-badge&logo=hackthebox&logoColor=green)
 
 ## 🛠️ About Me
 

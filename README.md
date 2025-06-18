@@ -10,8 +10,6 @@
 
 <p align="center">
     <img src="assets/cyber-security.gif" alt="hacking" width="400" style="border-radius: 10px; box-shadow: 0 0 15px #00ffff;" />
-</p>
-
 <p align="center" style="font-size: 1.2em; font-weight: bold; color: #ccc; text-shadow: 0 0 10px #0ff;">
   Ethical Hacker • Security Researcher • CTF Player
 </p>

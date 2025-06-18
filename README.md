@@ -26,6 +26,8 @@
 - 🔍 Currently exploring **Red Team** operations.
 - 🎯 Specialized in web-app security and automation.
 - 🏆 Active participant in CTF events and security communities.
+![TryHackMe](https://img.shields.io/badge/TryHackMe-%2312100E.svg?style=for-the-badge&logo=tryhackme&logoColor=red)
+![HackTheBox](https://img.shields.io/badge/HackTheBox-%23000000.svg?style=for-the-badge&logo=hackthebox&logoColor=green)
 
 ---
 

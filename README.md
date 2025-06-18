@@ -1,23 +1,22 @@
 <table width="100%">
 <tr>
-<td align="center" background="https://wallpapercave.com/wp/wp12578536.jpg" style="padding: 40px;">
-  
-  <h2 style="color: white; text-shadow: 0 0 10px #0ff;">⚡ unknown1337 ⚡</h2>
-  <p style="color: white;">CTF • Bug Bounty • Red Team</p>
-
+<td align="center" style="padding: 60px; background: url('https://wallpapercave.com/wp/wp12578536.jpg') center center / cover no-repeat;">
+  <h2 style="color: white; text-shadow: 0 0 15px #00ffff; font-size: 2.8em;">⚡ unknown1337 ⚡</h2>
+  <p style="color: white; font-size: 1.2em; text-shadow: 0 0 10px #0ff;">CTF • Bug Bounty • Red Team</p>
 </td>
 </tr>
 </table>
 
 <p align="center">
-    <img src="assets/cyber-security.gif" alt="hacking" width="400"/>
+    <img src="assets/cyber-security.gif" alt="hacking" width="400" style="border-radius: 10px; box-shadow: 0 0 15px #00ffff;" />
 </p>
 
-<p align="center">
+<p align="center" style="font-size: 1.2em; font-weight: bold; color: #ccc; text-shadow: 0 0 10px #0ff;">
   Ethical Hacker • Security Researcher • CTF Player
 </p>
 
 ---
+
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3h6a3k0YzFpcXQ2ZWxmMDdiYjk0NzFnN28wOG96NjV5M285azUwNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6OrCT1jVbonHG/giphy.gif" width="500" style="border-radius: 10px;" />
 </p>
@@ -53,13 +52,6 @@
 
 - [**ReconMaster**](#): Automated subdomain enumeration and vulnerability scanning.
 - [**ExploitFinder**](#): Quick-check tool for sensitive path scanning on multiple domains.
-
----
-
-## 📫 Contact Me
-
-[![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=Telegram&logoColor=white)](https://t.me/unknown1337)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/unknown1337)
 
 ---
 

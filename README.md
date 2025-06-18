@@ -1,12 +1,16 @@
-<h1 align="center">⚡ unknown1337 ⚡</h1>
+<div align="center">
 
-<p align="center">
-    <img src="assets/cyber-security.gif" alt="hacking" width="400"/>
+<h1 style="font-size:3em; text-shadow:0 0 15px #00f, 0 0 30px #0ff; animation:pulse 1.5s infinite alternate;">
+⚡ unknown1337 ⚡
+</h1>
+
+<img src="assets/cyber-security.gif" width="400" style="border-radius:10px; box-shadow:0 0 30px #00f;" />
+
+<p style="font-size:1.2em; font-weight:bold; color:#ccc; margin-top:20px; text-shadow:0 0 10px #0ff;">
+Ethical Hacker • Security Researcher • CTF Player
 </p>
 
-<p align="center">
-  Ethical Hacker • Security Researcher • CTF Player
-</p>
+</div>
 
 ---
 
@@ -44,13 +48,22 @@
 
 ---
 
-## 📫 Contact Me
+<div align="center">
+   <i style="font-size:1.2em; text-shadow:0 0 10px #0ff;">"Hack the planet!" 🌎</i>
+</div>
 
-[![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=Telegram&logoColor=white)](https://t.me/yourusername)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/yourusername)
+<style>
+@keyframes pulse {
+  from { transform: scale(1); }
+  to { transform: scale(1.05); }
+}
 
----
+div img {
+  animation: glow 2s infinite alternate;
+}
 
-<p align="center">
-   <i>"Hack the planet!" 🌎</i>
-</p>
+@keyframes glow {
+  from { box-shadow:0 0 10px #00f; }
+  to { box-shadow:0 0 30px #0ff; }
+}
+</style>

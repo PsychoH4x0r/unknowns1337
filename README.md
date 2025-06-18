@@ -1,6 +1,7 @@
-<table width="100%">
-<tr>
-<td align="center" background="https://wallpapercave.com/wp/wp12578536.jpg" style="padding: 60px;">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=00FFFF&center=true&vCenter=true&width=435&lines=CTF+Player;Bug+Bounty+Hunter;Linux+Exploit+Researcher;Cyber+Ops+%2F+Red+Team" alt="Typing SVG" />
+</p>
+
   <h2 style="color: white; text-shadow: 0 0 15px #00ffff; font-size: 2.8em;">⚡ unknown1337 ⚡</h2>
   <p style="color: white; font-size: 1.2em; text-shadow: 0 0 10px #0ff;">CTF • Bug Bounty • Red Team</p>
 </td>

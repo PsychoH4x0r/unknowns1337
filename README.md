@@ -2,11 +2,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=00FFFF&center=true&vCenter=true&width=435&lines=CTF+Player;Bug+Bounty+Hunter;Linux+Exploit+Researcher;Cyber+Ops+%2F+Red+Team" alt="Typing SVG" />
 </p>
 
-  <h2 style="color: white; text-shadow: 0 0 15px #00ffff; font-size: 2.8em;">⚡ unknown1337 ⚡</h2>
-  <p style="color: white; font-size: 1.2em; text-shadow: 0 0 10px #0ff;">CTF • Bug Bounty • Red Team</p>
-</td>
-</tr>
-</table>
+ h1 align="center">⚡ unknown1337 ⚡</h1>
+
+<p align="center">
+    <img src="assets/cyber-security.gif" alt="hacking" width="400"/>
+</p>
+
+<p align="center">
+  Ethical Hacker • Security Researcher • CTF Player
+</p>
+
 
 <p align="center">
     <img src="assets/cyber-security.gif" alt="hacking" width="400" style="border-radius: 10px; box-shadow: 0 0 15px #00ffff;" />

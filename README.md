@@ -1,4 +1,6 @@
 <h1 align="center">⚡ unknown1337 ⚡</h1>
+![TryHackMe](https://img.shields.io/badge/TryHackMe-%2312100E.svg?style=for-the-badge&logo=tryhackme&logoColor=red)
+![HackTheBox](https://img.shields.io/badge/HackTheBox-%23000000.svg?style=for-the-badge&logo=hackthebox&logoColor=green)
 
 <p align="center">
 <p align="center">
@@ -26,8 +28,6 @@
 - 🔍 Currently exploring **Red Team** operations.
 - 🎯 Specialized in web-app security and automation.
 - 🏆 Active participant in CTF events and security communities.
-![TryHackMe](https://img.shields.io/badge/TryHackMe-%2312100E.svg?style=for-the-badge&logo=tryhackme&logoColor=red)
-![HackTheBox](https://img.shields.io/badge/HackTheBox-%23000000.svg?style=for-the-badge&logo=hackthebox&logoColor=green)
 
 ---
 
